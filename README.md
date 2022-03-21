@@ -28,4 +28,16 @@ Thomas High School is considered second best.
 Thomas high School is also spending more for their student than the first highest school. So considering that Thomas High School is the second best school, and one of the schools with the highest money spent per student, the money should be the successs of school.
 ![Overall Summary of Each School](https://user-images.githubusercontent.com/100543143/159194674-e8277875-c2e4-444b-bf48-05531eb1b629.png)
 
+### Removing Freshmen ###
 
+What happens when we remove the freshmen, so taking out the students that are coming into the school and in the 9th grade. 
+![Student Data 9th Grade Math and Reading NaN](https://user-images.githubusercontent.com/100543143/159194912-402f6765-77d6-4dcb-8de0-d8da3a201073.png)
+So how do we do that we just nullify the 9th graders scores, so that they aren't affecting the overall score for Math and Reading.
+
+![Schools Overall Math Scores Based on Grade Remove 9th](https://user-images.githubusercontent.com/100543143/159195083-fabeaa18-32c8-45e9-8236-967c7aba8819.png)
+
+![Schools Overall Reading Scores Based on Grade Remove 9th](https://user-images.githubusercontent.com/100543143/159195084-a61b853f-9038-47ae-8867-9c8ef2e6ac29.png)
+
+
+
+What we should expect is Thomas High School to still maintain the top spots for all of the high schools
