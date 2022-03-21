@@ -17,3 +17,5 @@ The main goal of the analyst is to see the dependent variables that lead to the 
 
 ## Result ##
 
+Thomas Hiogh School is ranking the second in the high schools average passing rates. That is including all the grade from 9th to 12th. 
+![Before removing 9th grade](https://user-images.githubusercontent.com/100543143/159194322-6c11d96c-ec72-41b4-8927-8a3828b7a7ce.png)
